@@ -1,4 +1,4 @@
-# Salário dos Governados 
+# Salário dos Governadores 
 
 Após a notícia que o governador de Minas Gerais queria aumentar seu salário em 300%, em março de 2023, surgiu a dúvida de quanto é o salário do governador de cada estado.
 
